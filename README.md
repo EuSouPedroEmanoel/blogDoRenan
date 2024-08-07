@@ -8,6 +8,12 @@
 
 > <h3>COMO USAR?</h3>
 
++ clique no botão verde escrito CODE
++ BAIXE o arquivo .ZIP clicando em DOWNLOAD ZIP
++ Extraia o Arquivo
++ Abra o index.html em seu navegado
+  <h6> Se você usar o recurso de dark mode do chrome flags será necessário desabilitar para que o site pareça como foi pensado em sua criação </h6>
+
 > <h3>Tecnologia usada<h3>
 <table>
   <tr>
